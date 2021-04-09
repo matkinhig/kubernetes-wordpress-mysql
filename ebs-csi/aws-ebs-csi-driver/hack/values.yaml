@@ -1,3 +1,0 @@
-enableVolumeScheduling: true
-enableVolumeResizing: true
-enableVolumeSnapshot: true
