@@ -129,7 +129,7 @@ kubectl config view --minify
 - Verify Control Plane Stack & Events
 - Verify NodeGroup Stack & Events
 
-### Login to Worker Node using Keypai kube-demo
+### Login to Worker Node using Keypai `matkinhig-services-keypair`
 - Login to worker node
 ```
 # For MAC or Linux
